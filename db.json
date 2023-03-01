@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "content": "CS is so hard",
+      "important": false,
+      "id": 2
+    }
+  ]
+}
